@@ -1,4 +1,8 @@
 ## Olá 😁
+Antes de conhecer programação, virei um mago das fórmulas do Excel.<br>
+Atualmente, estou cursando Desenvolvimento de Software (Intensivo) da Cubos Academy.<br>
+Atualmente tenho experiência em JavaScript, Python, HTML, CSS, APIs e DOM.<br>
+As próximas tecnologias que aprenderei no curso são React, SQL, noSQL e TypeScript.
 
  <div>
    <a href="https://github.com/thiago-granja">
