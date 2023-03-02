@@ -1,7 +1,7 @@
 ## Olá 😁
 Antes de conhecer programação, virei um mago das fórmulas do Excel.<br>
 Atualmente, estou cursando Desenvolvimento de Software (Intensivo) da Cubos Academy.<br>
-Tenho experiência em JavaScript, Python, HTML, CSS, APIs e DOM.<br>
+Tenho experiência em JavaScript, Python, HTML e CSS.<br>
 As próximas tecnologias que aprenderei no curso são React, SQL, noSQL e TypeScript.
 
  <div>
